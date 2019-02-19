@@ -1,5 +1,6 @@
 # Sinatra MVC File Structure
 
+
 ## Overview
 
 We'll review the file structure we'll be using for our MVC Sinatra applications.
